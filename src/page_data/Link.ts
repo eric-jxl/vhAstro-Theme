@@ -4,9 +4,9 @@ export default {
   // api 为空则使用 data 静态数据
   data: [
     {
-      "name": "韩小韩博客",
-      "link": "https://www.vvhan.com",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640",
+      "name": "Eric's Blob",
+      "link": "https://www.jxlss.cn",
+      "avatar": "https://wework.qpic.cn/wwpic3az/815913_7gWJjhMhTi63J1X_1744153334/0",
       "descr": "运气是计划之外的东西."
     },
     {
