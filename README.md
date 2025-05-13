@@ -4,7 +4,7 @@
 
 **「当极简主义遇上工程之美」**
 
-在线演示 ➡️ [https://www.vvhan.com](https://www.vvhan.com)
+ ➡️ [在线演示](https://www.jxlss.cn)
 
 官方文档 ➡️ [vhAstro-Theme](https://www.vvhan.com/article/astro-theme-vhastro-theme)
 
@@ -62,11 +62,11 @@
 
 ### Vercel 自动部署
 
-[![vhAstro-Theme](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/uxiaohan/vhAstro-Theme)
+[![vhAstro-Theme](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/eric-jxl/vhAstro-Theme)
 
 ### Cloudflare Pages 自动部署
 
-[![vhAstro-Theme](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/uxiaohan/vhAstro-Theme)
+[![vhAstro-Theme](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/eric-jxl/vhAstro-Theme)
 
 ### 使用命令拉取模板
 
