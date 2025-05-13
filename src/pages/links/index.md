@@ -13,8 +13,8 @@ type: "links"
 :::
 
 ```yaml
-name: 韩小韩博客
-link: https://www.vvhan.com/
+name: Eric's Blbo
+link: https://www.jxlss.cn/
 avatar: https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640
 desc: 运气是计划之外的东西.
 ```
