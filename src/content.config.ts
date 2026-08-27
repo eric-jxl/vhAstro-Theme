@@ -19,4 +19,10 @@ const blog = defineCollection({
 	}),
 });
 
+fetch("https://analytics.digitalplat.org/a/collect", {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({"property":"dpa_h79HzQxA-e8kgdRw4Ll0oetT0dyxO9E","event":"page_view","url":"https://example.com/docs"})
+});
+
 export const collections = { blog };
